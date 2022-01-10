@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 490.29 490.29" style="enable-background:new 0 0 490.29 490.29;" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="245.043" cy="245.119" r="38.7" id="gradient-0">
+      <stop offset="0" style="stop-color: rgba(255, 97, 97, 1)"/>
+      <stop offset="1" style="stop-color: rgba(250, 0, 0, 1)"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="115.505" cy="374.676" r="124.649" id="gradient-1">
+      <stop offset="0" style="stop-color: rgba(255, 97, 97, 1)"/>
+      <stop offset="1" style="stop-color: rgba(250, 0, 0, 1)"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="374.785" cy="115.927" r="124.649" id="gradient-2">
+      <stop offset="0" style="stop-color: rgba(255, 97, 97, 1)"/>
+      <stop offset="1" style="stop-color: rgba(250, 0, 0, 1)"/>
+    </radialGradient>
+  </defs>
+  <g>
+    <g>
+      <g>
+        <rect x="206.343" y="-62.678" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 591.6399 245.173)" width="77.399" height="615.594" style="stroke: url(#gradient-0); fill: rgb(255, 97, 97);"/>
+        <rect x="-9.144" y="335.976" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -231.1054 191.4143)" width="249.298" height="77.399" style="stroke: url(#gradient-1); fill: rgb(255, 97, 97);"/>
+        <rect x="250.136" y="77.228" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 721.7715 -67.1118)" width="249.298" height="77.399" style="stroke: url(#gradient-2); fill: rgb(255, 97, 97);"/>
+      </g>
+    </g>
+  </g>
+</svg>
